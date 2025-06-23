@@ -1,6 +1,9 @@
 # ИИ-ассистент для онлайн магазина детской книги
 Ссылка на проект - @bukashkiknizhki_bot
+Скриншоты проекта
 ![Иллюстрация к проекту](https://github.com/Lineve-ai/ai_assistent/blob/main/2025-06-21_21-03-19.png)
+![Иллюстрация к проекту](https://github.com/Lineve-ai/ai_assistent/blob/main/2025-06-21_21-03-41.png)
+![Иллюстрация к проекту](https://github.com/Lineve-ai/ai_assistent/blob/main/2025-06-21_21-04-07.png)
 
 ## Описание проекта
 
